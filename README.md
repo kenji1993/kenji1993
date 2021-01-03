@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenji Arakaki</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **PHP, Vue js, MySQL**
+- 🌱 I’m currently learning **React Js**
 
 - 📄 Know about my experiences [https://www.kenjiarakaki.com](https://www.kenjiarakaki.com)
 

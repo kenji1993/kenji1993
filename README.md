@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 📄 Know about my experiences [https://www.kenjiarakaki.com](https://www.kenjiarakaki.com)
+- 📄 Know about my experiences [Linkedin]([https://www.kenjiarakaki.com](https://www.linkedin.com/in/kenji-arakaki/))
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenji1993&show_icons=true&locale=en&layout=compact" alt="kenji1993" /></p>

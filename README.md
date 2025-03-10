@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenji Arakaki</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **React Js**
+![Codewars](https://www.codewars.com/users/kenji1993/badges/large)
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/kenji-arakaki/)
 
